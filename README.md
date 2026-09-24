@@ -11,7 +11,7 @@
 - 🔐 Cybersecurity enthusiast with multiple foundational certifications
 - 🌱 Currently learning **Python** and **PHP**
 - 💡 Interested in ethical hacking, network security & web development
-- 📫 Reach me at: emailkamu@gmail.com
+- 📫 Reach me at: laurenz.berwulo@gmail.com
 
 ---
 
