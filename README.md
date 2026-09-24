@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/3Bpiw6RVJ" width="400"/>
-</p>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjQyNjk0cjB2ZWZvcTZsMTdyOXNteTN6ejJtM3g4Y2R1NmdoM2l6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="400"/></p>
 
 <h1 align="center">Halo, saya Lionel 👋</h1>
 
