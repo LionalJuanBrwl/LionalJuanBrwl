@@ -18,7 +18,9 @@ Kalau kamu juga lagi belajar hal yang sama atau punya rekomendasi resource bagus
 
 ### Yang lagi saya pelajari
 🔐 Jaringan & keamanan dasar (networking, firewall, threat analysis)
+
 🐍 Python — buat scripting & otomasi
+
 🐘 PHP — dasar web development
 
 
